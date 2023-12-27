@@ -1,0 +1,1 @@
+In this project we made a bot which mimics how a human makes a spotify account by using random time intervals between filling different options, using user agents and proxies. Then I used openpyxl to store these usernames and password in an excel file.
